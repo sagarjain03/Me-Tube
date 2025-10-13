@@ -1,0 +1,2 @@
+1) project initialize krke ek public folder bnao usme ek temp folder bnao usme gitignore btao aur usme data bhro gitignore generator naam ki site se
+2)prettier use krna as settings
